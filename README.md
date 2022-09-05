@@ -6,6 +6,7 @@ Pontos a melhorar:
 - Priorizar os requisitos pedidos;
 - Entende melhorar a função do responsivo;
 - Adição de mais funcionalidades;
+- Foco no objetivo & Aprimoramento/Entendimento da base do código;
 
 
 Critérios do Teste Prático
